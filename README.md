@@ -1,2 +1,2 @@
-# ESP32 ESP-IDF ThingSpeak
- ESP32 ESP-IDF Send Sensor Readings to ThingSpeak Cloud Platform
+link to article:
+https://esp32tutorials.com/esp32-esp-idf-thingspeak-send-sensor-readings/
